@@ -1,48 +1,25 @@
-# bilibilias
+# BILIBILIAS
 
-哔哩哔哩解析工具 - 一个辅助缓存下载B站视频和番剧的APP，帮助你快速便捷地缓存B站视频及番剧。
+本仓库是「BILIBILIAS」的安卓版本获取入口，附使用资料索引。
 
-## 下载地址
+## 安装文件资源（夸克网盘）
 
-- [点击下载最新版 APK](https://github.com/SOCK-MAGIC/bilibilias/releases/latest)
+> **BILIBILIAS 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b1d142b9ae63](https://pan.quark.cn/s/b1d142b9ae63)
 
-## 项目简介
+## 官方项目
 
-**bilibilias** 是一款专为 B 站用户开发的视频缓存工具，支持解析番剧、视频等内容，并提供一键缓存下载功能，让你可以离线观看喜爱的
-B 站资源。
+- 上游项目：[SOCK-MAGIC/bilibilias](https://github.com/SOCK-MAGIC/bilibilias)
 
-## 主要功能
+## 更多资料
 
-- 支持哔哩哔哩视频、番剧的解析与缓存下载
-- 简洁易用的界面
-- 支持多平台和多种资源类型
-  - **目前仅支持 Android 平台**，Windows 版本正在开发中，敬请期待。
-  - 资源类型包括 B 站视频、番剧，未来将持续扩展支持范围。
-
-## 发展计划
-
-- [ ] Windows 平台支持
-- [ ] 支持更多 B 站资源类型（如专栏、直播、音频等）
-- [ ] 支持多分辨率、字幕、弹幕的解析与缓存
-- [ ] 多语言界面和更多高级下载功能
-- [ ] 丰富的插件/扩展生态
-
-欢迎提出建议和反馈！
-
-## 贡献指南
-
-欢迎每一位开发者参与贡献！你可以通过以下方式参与项目：
-
-- 提交 Issue 报告 Bug 或提出新功能建议
-- 提交 Pull Request 贡献代码
-- 帮助完善文档
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [下载文件保存位置与管理](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E4%BF%9D%E5%AD%98%E4%BD%8D%E7%BD%AE%E4%B8%8E%E7%AE%A1%E7%90%86.md)
+- [下载的视频打不开或没声音怎么办](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%A7%86%E9%A2%91%E6%89%93%E4%B8%8D%E5%BC%80%E6%88%96%E6%B2%A1%E5%A3%B0%E9%9F%B3%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+- [常见问题与解决办法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
+- [缓存下载视频教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E7%BC%93%E5%AD%98%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
+- [账号登录与画质限制说明](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BILIBILIAS/%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95%E4%B8%8E%E7%94%BB%E8%B4%A8%E9%99%90%E5%88%B6%E8%AF%B4%E6%98%8E.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-## 致谢
-
-感谢所有为本项目做出贡献的开发者与用户！
-
----
-
-> 本项目为开源项目，欢迎 Issue、PR 和 Star！
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/SOCK-MAGIC/bilibilias)。
